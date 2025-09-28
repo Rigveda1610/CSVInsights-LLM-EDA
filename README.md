@@ -16,3 +16,5 @@ It combines EDA (Exploratory Data Analysis) with Groq’s LLM-powered insights, 
 Correlation heatmap
 ✅ AI-Powered Q&A: Ask natural language questions about your dataset
 ✅ Download the cleaned dataset instantly
+
+NOTE : Before running directly app.py make sure you replace it with your groq api key 
